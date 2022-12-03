@@ -1,0 +1,11 @@
+<?php get_header();?>
+<?php View::render('partials/top-bar')?>
+<?php View::render('partials/nav-bar');?>
+<?php View::render('partials/featured');?>
+<?php View::render('partials/categorys');?>
+<?php View::render('partials/offer');?>
+<?php View::render('partials/products');?>
+<?php View::render('partials/subscribe');?>
+<?php View::render('partials/products');?>
+<?php View::render('partials/vendor');?>
+<?php get_footer();?>
